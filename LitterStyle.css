@@ -1,0 +1,138 @@
+body{
+    background-color: goldenrod;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    transition: 0.3s;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    .card:hover {
+    box-shadow: 0px 8px 16px 10px rgba(0, 0, 0, 0.6);
+    }
+
+    .container {
+    padding: 2px 16px;
+    padding-bottom: 0px;
+    margin-left: 20px;
+    }
+
+
+
+ul{
+    margin: auto;
+    align-self: center;
+    display: inline-flex;
+}
+
+figcaption{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+section img{
+    border-radius: 30px;
+    width: 300px;
+    padding: 20px;
+}
+
+.info{
+    color: black;
+    padding-left: 10px;
+}
+
+h3{
+font-size: 20px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    color: black;
+}
+
+header{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    text-decoration: none;
+}
+
+header .logo b {
+    background-image: url("img/ManniCoonLogo\ \(1\).png");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 420px;
+    text-indent: -999999px;
+    height: 300px;
+}
+
+.View{
+    background-color: goldenrod;
+    padding: 2px;
+    border-radius: 8px;
+    
+}
+
+section{
+    background-color:rgb(197, 148, 23);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header .Nav{
+    text-align: center;
+}
+li{
+    margin: auto;
+    width: 100;
+    
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Nav li{
+    color: blanchedalmond;
+}
+
+.Nav a{
+    text-align: center;
+}
+
+li{
+    font-size: 25;
+    color: w;
+    list-style: none;
+}
+
+head{
+    color: blanchedalmond;
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25;
+    
+}
+
